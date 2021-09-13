@@ -382,7 +382,7 @@
 
 ## The directory to use for notebooks and kernels.
 #  Default: ''
-# c.NotebookApp.notebook_dir = ''
+c.NotebookApp.notebook_dir = 'C:/Users/abiga/Documents/Bluebird/STAT545'
 
 ## Whether to open in a browser after starting. The specific browser used is
 #  platform dependent and determined by the python standard library `webbrowser`
